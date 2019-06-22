@@ -1,6 +1,7 @@
-# Robot Adam Bir Yapay Zeka Ürünüdür. "Artificial Intelligence"
+# Robot Adam Bir Yapay Zeka Ürünüdür. 
+  "Artificial Intelligence"
 
-<img src="https://i.hizliresim.com/zGAJPg.jpg" width="250" title="hover text">
+[url=https://ibb.co/68tZzVH][img]https://i.ibb.co/68tZzVH/1-16.jpg[/img][/url]
 
 
 Ercan / xcientist / Ekim 2018
