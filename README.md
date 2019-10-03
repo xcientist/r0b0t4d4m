@@ -3,12 +3,12 @@
 
 <img src="https://i.ibb.co/vhdBpg3/1-16.jpg" width="250" title="hover text">
 
-Ercan / xcientist / Ekim 2018
+E**** / xcientist / Ekim 2018
 
 ## Özet 
 Projemin amacı AÇIK KAYNAK Kodlu bir yapay zeka ortaya çıkarmak, Aynı zamanda makine öğrenmesi ile Sesli asistanları bir araya getirmek.
 
-Robot Adamın v0.2.4'de Yapabildikleri şu şekilde :
+Robot Adamın v0.2.9'de Yapabildikleri şu şekilde :
 
 - Sizinle birebir konuşabilir, sohbet edebilir ama sesinizi net bi şekilde algılaması gerekiyor.
 - Size abuk sabuk sesler çalabilir ve sizi korkutabilir.
@@ -21,7 +21,8 @@ Robot Adamın v0.2.4'de Yapabildikleri şu şekilde :
 - Duygu durumunuza göre size özel şarkı listeleri çalabilir evet bunu yapabilir.
 - Günlük haberleri sizin için okuyabilir.
 - Sizin için birkaç saat sonrasına anımsatıcı kurup anımsatıcı zamanı geldiğinde sizi uyarabilir.
-
+- 2.0 da Küfür edebilme küfüre cevap verebilme yeteneği eklendi.
+- 2.4 de Ülkemizdeki tipik insan karakteri aşılandı robot adamin çeşitli karakterleri mevcut üzerinde geliştirmeler devam ediyor.
 
 Sonraki aşamalar:
 
@@ -34,6 +35,7 @@ Robot Adamı kullanmadan önce şu kütüphanelerin bilgisayarınızda kurulu ol
 - Selenium
 - Pyowm
 - PyQt5
+- Yapay Zeka Google Tensor Flow Engine AI
 
 Bunları kurduktan sonra projeyi **main.py** dosyası içerisinden çalıştırabilirsiniz.
 
@@ -41,7 +43,7 @@ Not: Geliştirme sürecinde olduğu için hatalar alabilirsiniz, hata ile karş�
 
 
 Robot Adamın Abisi:
-- Ercan / xcientist
+- E**** / xcientist
 
 Katkı sağlayanlar:
 - Discord daki Güzel insanlar
