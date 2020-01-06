@@ -35,7 +35,8 @@ Robot Adamı kullanmadan önce şu kütüphanelerin bilgisayarınızda kurulu ol
 - Selenium
 - Pyowm
 - PyQt5
-- Yapay Zeka Google Tensor Flow Engine AI
+- Yapay Zeka 
+- Google Tensor Flow Engine AI 2.O 
 
 Bunları kurduktan sonra projeyi **main.py** dosyası içerisinden çalıştırabilirsiniz.
 
