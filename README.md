@@ -9,7 +9,7 @@ E**** / xcientist / Ekim 2018
 Projemin amacı AÇIK KAYNAK Kodlu bir yapay zeka ortaya çıkarmak, Aynı zamanda makine öğrenmesi ile Sesli asistanları bir araya getirmek.
 
 Robot Adamın v0.2.9'de Yapabildikleri şu şekilde :
-
+- Deneysel Yapay zeka mödülü ile kafasina göre takılabiliyor BETA Test sürüşündeyiz
 - Sizinle birebir konuşabilir, sohbet edebilir ama sesinizi net bi şekilde algılaması gerekiyor.
 - Size abuk sabuk sesler çalabilir ve sizi korkutabilir.
 - Anlık olarak saat'i söyleyebilir.
