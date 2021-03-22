@@ -44,7 +44,7 @@ Not: Geliştirme sürecinde olduğu için hatalar alabilirsiniz, hata ile karş�
 
 
 Robot Adamın Abisi:
-- E**** / xcientist
+- E**** / xci
 
 Katkı sağlayanlar:
 - Discord daki Güzel insanlar
