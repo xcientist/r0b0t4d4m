@@ -3,7 +3,7 @@
 
 <img src="https://i.ibb.co/vhdBpg3/1-16.jpg" width="250" title="hover text">
 
-E**** / xcientist / Ekim 2018
+E**** / xci / Ekim 2018
 
 ## Özet 
 Projemin amacı AÇIK KAYNAK Kodlu bir yapay zeka ortaya çıkarmak, Aynı zamanda makine öğrenmesi ile Sesli asistanları bir araya getirmek.
