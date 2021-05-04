@@ -3,7 +3,9 @@
 
 <img src="https://i.ibb.co/vhdBpg3/1-16.jpg" width="250" title="hover text">
 
-E**** / xci / Ekim 2018
+E**** / xci / Ekim 2018 Robot 
+Adamı kendi sunucunuza eklemek için aşağıdaki linki kullanabilirsiniz
+https://discord.com/oauth2/authorize?client_id=572104513851490334&permissions=36702721&scope=bot 
 
 ## Özet 
 Projemin amacı AÇIK KAYNAK Kodlu bir yapay zeka ortaya çıkarmak, Aynı zamanda makine öğrenmesi ile Sesli asistanları bir araya getirmek.
