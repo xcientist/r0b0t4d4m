@@ -25,7 +25,7 @@ Robot Adamın v0.2.9'de Yapabildikleri şu şekilde :
 - Sizin için birkaç saat sonrasına anımsatıcı kurup anımsatıcı zamanı geldiğinde sizi uyarabilir.
 - 2.0 da Küfür edebilme küfüre cevap verebilme yeteneği eklendi.
 - 2.4 de Ülkemizdeki tipik insan karakteri aşılandı robot adamin çeşitli karakterleri mevcut üzerinde geliştirmeler devam ediyor.
-- Robot adma gözlerinizden lazer ışını çikarabilir ona yüzünüzü göstermeniz gerek eğlenceli :)
+- 2.4a Onprem Robot adama gözlerinizden lazer ışını çikarabilir ona yüzünüzü göstermeniz gerek eğlenceli :)
 
 Sonraki aşamalar:
 
